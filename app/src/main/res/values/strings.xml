@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PartialExamV2</string>
+    <string name="Rock">Rock</string>
+    <string name="Paper">Paper</string>
+    <string name="Scissors">Scissors</string>
+    <string name="Reset">Reset</string>
+    <string name="Score">Score</string>
+</resources>
